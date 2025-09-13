@@ -92,7 +92,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=my0dream&show_icons=true&theme=dracula&hide_border=true&title_color=0033FF&icon_color=CC00FF&text_color=FF3300&border_color=FFCC00" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my0dream&langs_count=10&layout=compact&theme=dracula&hide_border=true&title_color=00FF33&icon_color=0033FF&text_color=CC00FF&border_color=FF3300" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my0dream&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=00FF33&icon_color=0033FF&text_color=CC00FF&border_color=FF3300" height="165"/>
 </div>
 
 <div align="center">
